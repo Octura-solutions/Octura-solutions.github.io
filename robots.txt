@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://octurasolutions.github.io/sitemap.xml
+Sitemap: https://octura-solutions.github.io/sitemap.xml

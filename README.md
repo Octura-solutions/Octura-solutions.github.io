@@ -1,6 +1,6 @@
 # Octura Solutions — GitHub Organization Page
 
-Source for [octurasolutions.github.io](https://octurasolutions.github.io/) — the public organization profile for **[Octura Solutions](https://octurasolutions.com)**, an Official Odoo Ready Partner delivering ERP implementation, custom module development, data migration, and ongoing support across the United States, Canada, and France.
+Source for [octura-solutions.github.io](https://octura-solutions.github.io/) — the public organization profile for **[Octura Solutions](https://octurasolutions.com)**, an Official Odoo Ready Partner delivering ERP implementation, custom module development, data migration, and ongoing support across the United States, Canada, and France.
 
 ## Links
 
