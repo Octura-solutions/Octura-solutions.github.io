@@ -11,15 +11,23 @@ Source for [octurasolutions.github.io](https://octurasolutions.github.io/) — t
 
 ## What we do
 
-- Full Odoo implementation (8–12 week go-live)
-- Custom module development (Python, OWL 3, QWeb)
-- Data migration from SAP, Oracle, QuickBooks, NetSuite
-- System integration (Stripe, FedEx, UPS, Shopify, Salesforce, 50+ connectors)
+- Odoo ERP implementation (10-week average go-live)
+- Custom development (Python, OWL 3, QWeb)
+- Data migration from SAP, Oracle, QuickBooks, NetSuite, legacy spreadsheets
+- System integration — 50+ pre-built connectors
 - BPMN 2.0 process modeling
-- Training &amp; ongoing support (4-hour SLA)
-- Certified on Odoo 16, 17, 18, 19 — Community &amp; Enterprise
+- User training, Odoo audit &amp; optimization, strategic consulting
+- Ongoing support with 4-hour critical SLA
+- Certified on Odoo 15, 16, 17, 18, 19 — Community &amp; Enterprise
+
+## Track record
+
+- 100+ implementations &middot; 95% client retention &middot; 4.9/5 satisfaction
+- 700+ custom modules built &middot; 200+ ERP audits &middot; $5M+ client savings
+- Official Odoo Ready Partner &middot; OCA Member 2026
 
 ## Contact
 
 **30 N Gould St, Ste R · Sheridan, WY 82801 · United States**
+curious@octurasolutions.com &middot; +1 (325) 455-8527
 Monday–Friday, 9 AM – 5 PM MT &middot; Languages: English &amp; French
